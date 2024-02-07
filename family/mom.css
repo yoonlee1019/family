@@ -1,0 +1,30 @@
+body {
+  background-color: navy;
+}
+
+h4 {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  line-height: 60px;
+  font-weight: 900;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+a {
+  color: yellowgreen;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+span {
+  color: yellowgreen;
+  font-weight: 700;
+}
+
